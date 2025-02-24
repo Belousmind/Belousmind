@@ -19,19 +19,7 @@
 
 ## Projects:
 
-### [Simon-says](https://rolling-scopes-school.github.io/belousmind-JSFE2024Q4/simon-says/)
-<details>
-  <summary>Project description</summary>
-  🛠 in progress... 🛠
-</details>
-
 ### [Nonograms](https://rolling-scopes-school.github.io/belousmind-JSFE2024Q4/nonograms/)
-<details>
-  <summary>Project description</summary>
-  🛠 in progress... 🛠
-</details>
-
-### [Conference ticket generator](https://belousmind.github.io/conference-ticket-generator/conference-ticket-generator/)
 <details>
   <summary>Project description</summary>
   🛠 in progress... 🛠
